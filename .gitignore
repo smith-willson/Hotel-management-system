@@ -1,0 +1,17 @@
+# Compiled binaries and object files
+*.exe
+*.out
+*.o
+*.obj
+
+# Runtime database (keep the folder)
+database/*.csv
+!database/.gitkeep
+
+# Editor and OS files
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+
+database/*.csv
